@@ -1,0 +1,10 @@
+spring:
+  profiles:
+    active: dev
+
+app:
+  message: "Welcome to Default Environment"
+  version: "1.0-DEFAULT"
+
+server:
+  port: 8080

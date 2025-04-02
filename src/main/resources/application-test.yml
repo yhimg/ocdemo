@@ -1,0 +1,5 @@
+app:
+  message: "Welcome to Test Environment"
+  version: "1.0-TEST"
+server:
+  port: 8080

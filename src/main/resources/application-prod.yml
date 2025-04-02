@@ -1,0 +1,5 @@
+app:
+  message: "Welcome to Production Environment"
+  version: "1.0-PROD"
+server:
+  port: 8080

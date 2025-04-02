@@ -1,0 +1,5 @@
+app:
+  message: "Welcome to Development Environment"
+  version: "1.0-DEV"
+server:
+  port: 8080
